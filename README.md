@@ -4,7 +4,7 @@ Optimized my.cnf configuration for MySQL & MariaDB (on Ubuntu, CentOS etc. serve
 
 ## Description config
 
-Don't forget backup you lod config before use this config.
+Don't forget backup you old config before use this config.
 
 The settings provided are a starting point for a 1GB - 2GB of RAM server with 1-2 CPU cores.
 You can edit value follow comment in line recommend.
